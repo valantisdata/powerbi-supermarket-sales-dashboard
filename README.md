@@ -48,3 +48,9 @@ This project was created as part of a Power BI training project using a sample d
 
 ## Notes
 This project is presented as part of my data analytics / business intelligence portfolio.
+
+---
+
+## License
+
+© 2026 Valantis Fagogenis. All rights reserved. See [LICENSE](LICENSE).
